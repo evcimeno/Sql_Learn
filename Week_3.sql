@@ -1,4 +1,4 @@
---Random maç skoru üretmek.T-Sql çalışması.
+--Random maç skoru üretmek.T-Sql çalışması.2
 DECLARE @EV_SAHIBI_TAKIM VARCHAR(50);
 DECLARE @EV_SAHIBI_TAKIM_SKOR tinyint;
 DECLARE @KONUK_TAKIM VARCHAR(50);
